@@ -1,0 +1,16 @@
+/write a program to convert days into year,week,and days/
+#include<stdio.h>
+int main()
+{
+int years,weeks,days;
+printf("Enter the days");
+scanf("%d",&days);
+years=(days/365);
+weeks=(days%365)/7;
+days=days-((years365)+(weeks7));
+printf("YEARS: %d\n",years);
+printf("WEEKS: %d\n",weeks);
+printf("DAYS : %d\n",days);
+return 0;
+
+}
