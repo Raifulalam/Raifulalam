@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software engineering student with
 
 Here are some of the projects I've worked on:
 
-- **[Project 1](link-to-project)**: Brief description of what it does and the technologies used.
+- **[Project 1](link-to-project)**: I have build  music Explorer website during Internship using HTML CSS Javascript with nodejs and use mangoDB as database .
 - **[Project 2](link-to-project)**: Brief description of what it does and the technologies used.
 - **[Project 3](link-to-project)**: Brief description of what it does and the technologies used.
 
