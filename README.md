@@ -36,7 +36,7 @@ I'm currently exploring:
 
 ## 📫 Connect with Me
 
-- [LinkedIn](link-to-your-linkedin) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)
+- [LinkedIn](in/mohammed-raiful-alam-321021278) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)
 - [Twitter](link-to-your-twitter) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
 - [Email](mailto:your-email@example.com) ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
 
