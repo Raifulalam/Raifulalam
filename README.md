@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Mohammed Raiful Alam] 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineering student with expertise in various technologies. I enjoy coding and learning new things to solve real-world problems.
 
@@ -42,7 +42,7 @@ I'm currently exploring:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raifulalam&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
 
 ## 🛠️ Tools & Technologies
 
