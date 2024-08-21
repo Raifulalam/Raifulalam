@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate software engineering student with
 
 Here are some of the projects I've worked on:
 
-- **[Project 1](link-to-project)**: I have build  music Explorer website during Internship using HTML CSS Javascript with nodejs and use mangoDB as database .
-- **[Project 2](link-to-project)**: Brief description of what it does and the technologies used.
-- **[Project 3](link-to-project)**: Brief description of what it does and the technologies used.
+- **[Project 1: Music-Explorer](link-to-project)**: I have build  music Explorer website during Internship using HTML CSS Javascript with nodejs and use mangoDB as database .
+- **[Project 2: AI text summarizer](link-to-project)**: I have developed a AI text summrizer app using API while working with Postman API bootcamp.
+- **[Project 3: Location track](link-to-project)**: Using #HTML ,CSS ,Javascript and Map APIs developed a location tracker website while working with Zidio development pvt.ltd .
 
 Feel free to check out my repositories to see more of my work!
 
