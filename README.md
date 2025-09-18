@@ -1,53 +1,88 @@
-# Hi there, I'm [Mohammed Raiful Alam] 👋
+# Hi there, I'm **Mohammed Raiful Alam** 👋  
 
-Welcome to my GitHub profile! I'm a passionate software engineering student with expertise in various technologies. I enjoy coding and learning new things to solve real-world problems.
-
-## 🚀 Skills
-
-### Programming Languages
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Object-Oriented Programming
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Web Development
-- **Frontend**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Full Stack Development
-- **Integration**: Combining frontend and backend technologies to build robust applications.
-
-## 💼 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project 1: Music-Explorer](link-to-project)**: I have build  music Explorer website during Internship using HTML CSS Javascript with nodejs and use mangoDB as database .
-- **[Project 2: AI text summarizer](link-to-project)**: I have developed a AI text summrizer app using API while working with Postman API bootcamp.
-- **[Project 3: Location track](link-to-project)**: Using #HTML ,CSS ,Javascript and Map APIs developed a location tracker website while working with Zidio development pvt.ltd .
-
-Feel free to check out my repositories to see more of my work!
-
-## 🌱 Current Learning
-
-I'm currently exploring:
-- Advanced React and JavaScript patterns
-- Cloud technologies and DevOps practices
-- Contributions to open source projects
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mohammed-raiful-alam-321021278/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)
-- [Twitter](https://x.com/md_raiful7) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-- [Email](mailto:raifulalam0123@gmail.com) ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raifulalam&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical)
-
-## 🛠️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Welcome to my GitHub profile!  
+I’m a passionate **Software Engineering student** specializing in **Full-Stack Development, Machine Learning, and Problem Solving**.  
+I love building impactful projects, solving challenges, and continuously learning new technologies to make real-world solutions.  
 
 ---
 
-Thanks for visiting my profile! 🚀
+## 🚀 Skills  
+
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+### 🧑‍💻 Object-Oriented Programming  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+### 🌐 Web Development  
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+
+### 🤖 Machine Learning & AI  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+
+### 🛠️ Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+
+---
+
+## 💼 Projects  
+
+Here are some highlights of my work:  
+
+- 🎶 **[Music Explorer](link-to-project)** – A music discovery website built with **HTML, CSS, JavaScript, Node.js, and MongoDB** during internship.  
+- 🤖 **[AI Text Summarizer](link-to-project)** – AI-powered app for automatic text summarization using APIs.  
+- 📍 **[Location Tracker](link-to-project)** – Real-time location tracker with **JavaScript & Map APIs** (Zidio Development Pvt. Ltd internship).  
+- 🍽️ **[Restaurant Reservation System](link-to-project)** – Full-stack app with **booking + payment (eSewa integration)**.  
+- 🎉 **[Event Management System](link-to-project)** – Web platform to manage **events, bookings, and payments**.  
+- 💬 **[Forum Application](link-to-project)** – A discussion & Q/A platform built with **React + Node.js**.  
+- 📦 **[Courier Tracking System](link-to-project)** – Role-based tracking app with **Admin, Sender, Receiver, Agent** modules + real-time updates.  
+- 🤝 **[Recommendation System](link-to-project)** – ML-based recommendation engine using **collaborative filtering** & ML models.  
+
+> 🔗 Check out my repositories for more projects!  
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced **React & JavaScript Patterns**  
+- **Cloud & DevOps** (Docker, CI/CD, Deployment)  
+- **Deep Learning & Recommender Systems**  
+- Open Source Contributions  
+
+---
+
+## 🏆 Competitive Programming  
+
+- Active on **LeetCode**: solving DSA problems & sharpening algorithms.  
+- Preparing for **coding interviews & aptitude rounds**.  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raifulalam?theme=radical&font=Karma&ext=contest)  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raifulalam&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raifulalam&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/mohammed-raiful-alam-321021278/)  
+- [Twitter](https://x.com/md_raiful7)  
+- [Email](mailto:raifulalam0123@gmail.com)  
+
+---
+
+✨ Thanks for visiting my profile! Let’s build and innovate together 🚀  
