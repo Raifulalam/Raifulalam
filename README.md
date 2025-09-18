@@ -86,7 +86,7 @@ Some highlights of my work:
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raifulalam&show_icons=true&count_private=true&include_all_commits=true&theme=radical) 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raifulalam&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raifulalam&layout=compact&theme=radical)  
 
 ---
