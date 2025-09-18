@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 I’m a passionate **Software Engineering student** specializing in **Full-Stack Development, Machine Learning, and Problem Solving**.  
-I love building impactful projects, solving challenges, and continuously learning new technologies to make real-world solutions.  
+I love building impactful projects, solving algorithmic challenges, and continuously learning new technologies to create real-world solutions.  
 
 ---
 
@@ -13,10 +13,13 @@ I love building impactful projects, solving challenges, and continuously learnin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-### 🧑‍💻 Object-Oriented Programming  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+### 🧑‍💻 Object-Oriented Programming & DSA  
+- Strong foundation in **OOP** (Java)  
+- Data Structures & Algorithms (DSA) with **Java**  
+- Problem-solving on **LeetCode & other platforms**  
 
 ### 🌐 Web Development  
 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
@@ -37,33 +40,44 @@ I love building impactful projects, solving challenges, and continuously learnin
 
 ## 💼 Projects  
 
-Here are some highlights of my work:  
+Some highlights of my work:  
 
-- 🎶 **[Music Explorer](link-to-project)** – A music discovery website built with **HTML, CSS, JavaScript, Node.js, and MongoDB** during internship.  
+- 🎶 **[Music Explorer](link-to-project)** – A music discovery website built with **HTML, CSS, JavaScript, Node.js, MongoDB**.  
 - 🤖 **[AI Text Summarizer](link-to-project)** – AI-powered app for automatic text summarization using APIs.  
 - 📍 **[Location Tracker](link-to-project)** – Real-time location tracker with **JavaScript & Map APIs** (Zidio Development Pvt. Ltd internship).  
-- 🍽️ **[Restaurant Reservation System](link-to-project)** – Full-stack app with **booking + payment (eSewa integration)**.  
+- 🍽️ **[Restaurant Reservation System](link-to-project)** – Full-stack app with **reservation + payment (eSewa integration)**.  
 - 🎉 **[Event Management System](link-to-project)** – Web platform to manage **events, bookings, and payments**.  
 - 💬 **[Forum Application](link-to-project)** – A discussion & Q/A platform built with **React + Node.js**.  
 - 📦 **[Courier Tracking System](link-to-project)** – Role-based tracking app with **Admin, Sender, Receiver, Agent** modules + real-time updates.  
-- 🤝 **[Recommendation System](link-to-project)** – ML-based recommendation engine using **collaborative filtering** & ML models.  
+- 🤝 **[Recommendation System](link-to-project)** – ML-based recommendation engine using **collaborative filtering & ML models**.  
 
-> 🔗 Check out my repositories for more projects!  
+> 🔗 Explore my repositories for more projects!  
+
+---
+
+## 📜 Certifications  
+
+- ✅ **Postman API Fundamentals Student Expert**  
+- ✅ **Internship at Zidio Development Pvt. Ltd (Web Development)**  
+- ✅ **Internship (Full-Stack Development – Music Explorer Project)**  
+- ✅ **Machine Learning & AI Workshop/Bootcamps**  
+- ✅ **Programming Certifications (Java, Python, DSA)**  
+- ✅ **NPTEL STAR Certification (IIT Madrash)**  
 
 ---
 
 ## 🌱 Currently Learning  
 
-- Advanced **React & JavaScript Patterns**  
+- Advanced **React & JavaScript**  
 - **Cloud & DevOps** (Docker, CI/CD, Deployment)  
-- **Deep Learning & Recommender Systems**  
+- **Deep Learning & Recommendation Systems**  
 - Open Source Contributions  
 
 ---
 
 ## 🏆 Competitive Programming  
 
-- Active on **LeetCode**: solving DSA problems & sharpening algorithms.  
+- Active on **LeetCode**: solving DSA problems & sharpening problem-solving.  
 - Preparing for **coding interviews & aptitude rounds**.  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Raifulalam?theme=radical&font=Karma&ext=contest)  
